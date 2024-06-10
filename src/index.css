@@ -1,0 +1,25 @@
+.TopHeader{
+    background-color: rgb(94,94,74);
+}
+.nav_main{
+    background-color:rgb(241,245,238);
+}
+
+.outer_oneImg img{
+    width: 1016px;
+    /* width:auto; */
+    height: 600px;
+    object-fit: cover;
+}
+/* @media (min-width: 100px ) and (max-width: 500px) {
+    .outer_oneImg img{
+
+    }
+    .textImage h4,h2 {
+        top:0;
+        left:0;
+    }
+    .OuterBox{
+        height:auto;
+    }
+  } */
