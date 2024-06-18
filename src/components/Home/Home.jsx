@@ -113,9 +113,9 @@ function Home() {
                   </h1>
                </div>
                {/* carousel content */}
-               <div className="d-flex flex-wrap justify-content-center mt-5 PopularProd">
+               <div className="d-flex flex-wrap justify-content-center mt-5">
 
-                  <div className="card ms-5 mt-2 " style={{ width: '18rem' }}>
+                  <div className="card mt-2 " style={{ width: '18rem' }}>
                      <img src="https://static.wixstatic.com/media/c837a6_71cb6826e409476a8bf5fc808e5025a5~mv2.jpg/v1/fill/w_381,h_509,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c837a6_71cb6826e409476a8bf5fc808e5025a5~mv2.jpg" className="card-img-top" alt="..." />
                      <div className="card-body" style={{ backgroundColor: 'rgb(215, 215, 213)' }}>
                         <p className="card-text"> Levender
@@ -178,7 +178,7 @@ function Home() {
                      changes to the font.<br />
                      I’m a great place for you to tell a story and<br />let your users
                      know a little more about you. <br />
-                     <button type="button" className="btn btn-outline-secondary mt-5 col-2">
+                     <button type="button" className="btn btn-outline-secondary mt-5 col-3">
                         Our Story
                      </button>
                   </p>
