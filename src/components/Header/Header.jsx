@@ -8,7 +8,7 @@ export default function Header() {
       <div class="TopHeader p-1">
         <p class="text-light text-center">FREE SHIPPING ON ORDERS OVER $50</p>
       </div>
-      <div className="navbar navbar-expand-lg d-flex nav_main">
+      <div className="navbar navbar-expand-lg d-flex nav_main sticky-top">
         <div className="container-fluid">
           <button
             className="navbar-toggler"
